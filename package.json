@@ -1,0 +1,13 @@
+{
+    "name": "Match Predictions",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "deploy-commands": "node deploy-commands.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.25.1",
+        "dotenv": "^17.3.1"
+    }
+}
